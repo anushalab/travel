@@ -32,7 +32,7 @@
 | 2 | 195a2f0d-0596-47cd-abe6-dd054f87c5ee | done |
 | 3 | d8fe0782-8d10-4cd5-9a6c-02861cb83e83 | done |
 | 4 | 8346b718-ae0b-476c-be46-b1171d7eb743 | done |
-| 5 | a3191609-80e6-4b14-961d-eba41c64ad89 | done |
+| 5 | 1350d944-ad1f-4383-8b7d-850fe44b1515 | **APPROVED (E2)**, replaces a3191609 |
 | 6 | 9abc4f76-36a3-494b-a3f1-cd64d4503598 | done |
 | 7 | 2a1779a6-db55-4799-9919-61b43c39d592 | done |
 | 8 | a74246aa-3f8e-433f-9d91-8852764fb208 | done |
@@ -80,6 +80,14 @@ Seed Audio pause lengths vary a lot between takes, so the speed setting alone do
 | 15ee45ef | 0 | 32.2 s |
 | 26001c3e | -5 | 35.5 s |
 | **6214c848** | **-5** | **27.9 s, APPROVED by client (take 4). Pad 2.1 s of music to land at exactly 30.0 s** |
+
+## Video draft plan (720p, 9:16, 4 s per shot, silent; VO and music added in the edit)
+| Shot | Model | Credits |
+|------|-------|---------|
+| 2, 7 (wide, people) | Cinema Studio 4.0 | 28 each |
+| 1, 3, 4, 5, 6, 8 | Seedance 2.0 (best reference fidelity for jewellery) | 18 each |
+| **Total drafts** | | **164** |
+Finals at 1080p (approved takes only): Seedance 36 per shot.
 
 ## Next steps
 

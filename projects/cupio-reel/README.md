@@ -98,7 +98,7 @@ Finals at 1080p (approved takes only): Seedance 36 per shot.
 | 4 | 06776837-5912-4c95-98c3-0c5fc9bd3517 | review |
 | 5 | e5b1bbd9-7807-46ce-aa93-c6f862456e12 | review (ring check via Higgsfield video analysis) |
 | 6 | 14a9707a-4402-4341-9127-bc27816930a0 | review |
-| 7 | 504082e6-fc52-4a60-92ef-f51cbdedb986 | review |
+| 7 | 504082e6-fc52-4a60-92ef-f51cbdedb986 | REJECTED: wrong jewellery on the keyframe. Fixed keyframe candidates: G1 8a581f6a, G2 df15bd2a, G3 4e463f94 (GPT Image 2.5 edit with all Cupio product photos) |
 | 8 | 199be9ab-0b6e-4e36-bb9c-8d8997a99741 | review |
 Approved drafts are finalised at 1080p with `draft_job_id`, which keeps the same motion.
 

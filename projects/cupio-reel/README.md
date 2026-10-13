@@ -34,7 +34,7 @@
 | 4 | 8346b718-ae0b-476c-be46-b1171d7eb743 | done |
 | 5 | 1350d944-ad1f-4383-8b7d-850fe44b1515 | **APPROVED (E2)**, replaces a3191609 |
 | 6 | 9abc4f76-36a3-494b-a3f1-cd64d4503598 | done |
-| 7 | 2a1779a6-db55-4799-9919-61b43c39d592 | done |
+| 7 | dba46297-3c01-4b8e-ba4a-9f500c9015db | **APPROVED (I2, hands hidden)**, replaces 2a1779a6 |
 | 8 | a74246aa-3f8e-433f-9d91-8852764fb208 | done |
 
 ## Voiceover
@@ -98,7 +98,7 @@ Finals at 1080p (approved takes only): Seedance 36 per shot.
 | 4 | 06776837-5912-4c95-98c3-0c5fc9bd3517 | review |
 | 5 | e5b1bbd9-7807-46ce-aa93-c6f862456e12 | FLAGGED: Higgsfield analysis 6695c550 reports moonstone on the RING finger and amethyst on the MIDDLE finger (one hand); the stacked rings are fine. Same placement is likely in keyframe E2. Re-animated from E2 as both start and end frame with a minimal prompt: d85372e3-aba7-442f-ae03-9361d95fb7c6 |
 | 6 | 14a9707a-4402-4341-9127-bc27816930a0 | review |
-| 7 | 504082e6-fc52-4a60-92ef-f51cbdedb986 | REJECTED: wrong jewellery on the keyframe. Fixed keyframe candidates: G1 8a581f6a, G2 df15bd2a, G3 4e463f94 (GPT Image 2.5 edit with all Cupio product photos). Client: earrings and pendant good, rings wrong, so rings were copied visually from E2: H1 46b0f71b (from G1), H2 4f538c47 (from G2), H3 f66cb3ce (from G3); client rejected all H. Decision: hide the hands. I1 a82cf611 (from G1), I2 dba46297 (from G2), I3 7981de04 (from G3) |
+| 7 | 504082e6-fc52-4a60-92ef-f51cbdedb986 | REJECTED: wrong jewellery on the keyframe. Fixed keyframe candidates: G1 8a581f6a, G2 df15bd2a, G3 4e463f94 (GPT Image 2.5 edit with all Cupio product photos). Client: earrings and pendant good, rings wrong, so rings were copied visually from E2: H1 46b0f71b (from G1), H2 4f538c47 (from G2), H3 f66cb3ce (from G3); client rejected all H. Decision: hide the hands. I1 a82cf611 (from G1), I2 dba46297 (from G2), I3 7981de04 (from G3). **Keyframe APPROVED: I2 dba46297-3c01-4b8e-ba4a-9f500c9015db.** New draft: da31b617-c606-4ffe-8d41-8d411a566517 |
 | 8 | 199be9ab-0b6e-4e36-bb9c-8d8997a99741 | review |
 Approved drafts are finalised at 1080p with `draft_job_id`, which keeps the same motion.
 

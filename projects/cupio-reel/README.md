@@ -3,7 +3,7 @@
 **Brand:** CUPIO Jewellery: handmade, limited-edition artisanal jewellery made in Georgia.
 **Audience:** women aged 25–45 in Tbilisi, middle to high income, who mix and match jewellery as part of their style.
 **Style:** realistic, cinematic, golden hour, warm cream/gold grade, film grain.
-**Voice:** female narrator, soft and intimate (candidates: Elodie, Celine, Isla).
+**Voice:** female narrator, preset voice `3d1cdbad-25ef-5a04-93d9-b29be1b91299` (chosen by client), Seed Audio 1.0, speech_rate -10, 48 kHz WAV.
 
 ## Script (VO ≈ 60 words)
 
@@ -39,6 +39,6 @@
 
 ## Next steps
 
-1. Approve the keyframes and choose a character. Generate shots 1, 4 and 7 once the limit resets.
+1. Character locked: Cupio-woman-field. Generate the VO with the chosen voice (blocked by the daily limit on 2026-10-13). Generate shots 1, 4 and 7 once the limit resets.
 2. Animate the shots: Cinema Studio 4.0 for 2 and 7, Seedance 2.0 for the product shots (4, 5, 6) to keep the jewellery accurate. Draft at 720p first.
 3. Record the VO, add a soft acoustic music bed, edit to the VO, add captions and the Cupio logo end card, then upscale.

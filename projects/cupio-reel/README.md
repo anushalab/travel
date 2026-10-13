@@ -53,6 +53,11 @@ Client picked C, but it shows the amethyst ring twice. Edits of C keeping one am
 - C2: 260f032d-718e-4087-aa28-80d5bf30e583 (Nano Banana)
 - C3: 3f2bf06c-c265-416b-9e9a-afb5d1ef12a7 (GPT Image 2.5)
 
+Client: C3 has the right number of rings, but the amethyst is on the index finger. Edits of C3 moving it to the ring finger:
+- D1: 4054b61b-da28-4725-b34b-291d68b25e24 (GPT Image 2.5)
+- D2: b56f42c4-44be-492b-9986-e9225fb097bf (GPT Image 2.5)
+- D3: c24b45b5-1463-47c1-8cf4-0bdd6d970943 (Nano Banana)
+
 ### Voiceover re-timing toward 30 s
 Seed Audio pause lengths vary a lot between takes, so the speed setting alone doesn't control duration.
 | Job | Rate | Duration |

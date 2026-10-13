@@ -48,6 +48,11 @@ Generated from the original product photos (moonstone cd4b8d5b, amethyst 7f9449d
 - C: e878cb9d-45d2-4f1e-9be7-3d2807b7dc1c (Nano Banana)
 - D: e613569b-c444-4a90-b862-e0e4d31b6cf8 (Nano Banana)
 
+Client picked C, but it shows the amethyst ring twice. Edits of C keeping one amethyst ring (right ring finger):
+- C1: 8d93a29b-da80-4972-a788-352b5b76f85d (Nano Banana)
+- C2: 260f032d-718e-4087-aa28-80d5bf30e583 (Nano Banana)
+- C3: 3f2bf06c-c265-416b-9e9a-afb5d1ef12a7 (GPT Image 2.5)
+
 ### Voiceover re-timing toward 30 s
 Seed Audio pause lengths vary a lot between takes, so the speed setting alone doesn't control duration.
 | Job | Rate | Duration |

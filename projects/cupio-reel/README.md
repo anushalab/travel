@@ -111,7 +111,7 @@ Approved drafts are finalised at 1080p with `draft_job_id`, which keeps the same
 | 4 | 06776837 | a169cf45-8824-4893-b27f-72a5f9165d74 |
 | 5 | e5b1bbd9 (option A) | 93476034-e1b8-4676-bd06-3ae7e307f00f |
 | 6 | 14a9707a | b2576c73-b7ee-4281-8525-a8a185d60ad9 |
-| 7 | da31b617 (from I2) | 80e34065-a5a2-4dbb-9cca-5f2053c26f2a |
+| 7 | da31b617 (from I2) | 80e34065-a5a2-4dbb-9cca-5f2053c26f2a; alt: Seedance 2.5 draft→1080p c577a16a-2b9b-43e1-8299-f8c5f0a2006b (48 cr), awaiting client comparison |
 | 8 | 199be9ab | 6e818146-77c4-4447-83a4-bf9e8745e8c3 |
 
 ## Next steps

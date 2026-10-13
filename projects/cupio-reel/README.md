@@ -64,6 +64,11 @@ Client: recreate. New versions with finger-by-finger placement (C3 as style refe
 - E3: 6322a545-8972-4ff0-af55-5d73d81ed654 (GPT Image 2.5)
 - E4: 5b5644d2-36d5-4009-a6b3-769a99d5f85d (Nano Banana)
 
+Client: hands from E2, moonstone (big) on the index finger, amethyst on the ring finger. Final edit of E2, describing fingers by counting from the thumb (GPT Image 2.5, xhigh):
+- F1: 593a5bd5-db3a-4ef9-8b59-727e2429d54a
+- F2: 6c1242dd-a9d7-462b-a5d5-2873172895dd
+- F3: d10237f5-f93c-4c18-87de-154b6ada9e73
+
 ### Voiceover re-timing toward 30 s
 Seed Audio pause lengths vary a lot between takes, so the speed setting alone doesn't control duration.
 | Job | Rate | Duration |

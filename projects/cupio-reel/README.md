@@ -58,6 +58,12 @@ Client: C3 has the right number of rings, but the amethyst is on the index finge
 - D2: b56f42c4-44be-492b-9986-e9225fb097bf (GPT Image 2.5)
 - D3: c24b45b5-1463-47c1-8cf4-0bdd6d970943 (Nano Banana)
 
+Client: recreate. New versions with finger-by-finger placement (C3 as style reference, plus the original product photos):
+- E1: 2dc7af64-42ce-4d70-8bc1-807f78615db4 (GPT Image 2.5)
+- E2: 1350d944-ad1f-4383-8b7d-850fe44b1515 (GPT Image 2.5)
+- E3: 6322a545-8972-4ff0-af55-5d73d81ed654 (GPT Image 2.5)
+- E4: 5b5644d2-36d5-4009-a6b3-769a99d5f85d (Nano Banana)
+
 ### Voiceover re-timing toward 30 s
 Seed Audio pause lengths vary a lot between takes, so the speed setting alone doesn't control duration.
 | Job | Rate | Duration |
@@ -68,7 +74,7 @@ Seed Audio pause lengths vary a lot between takes, so the speed setting alone do
 | 974ddfba | 0 | 37.3 s |
 | 15ee45ef | 0 | 32.2 s |
 | 26001c3e | -5 | 35.5 s |
-| **6214c848** | **-5** | **27.9 s, recommended: pad 2.1 s of music to land at exactly 30.0 s** |
+| **6214c848** | **-5** | **27.9 s, APPROVED by client (take 4). Pad 2.1 s of music to land at exactly 30.0 s** |
 
 ## Next steps
 

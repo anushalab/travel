@@ -119,3 +119,11 @@ Approved drafts are finalised at 1080p with `draft_job_id`, which keeps the same
 1. Character locked: Cupio-woman-field. Generate the VO with the chosen voice (blocked by the daily limit on 2026-10-13). Generate shots 1, 4 and 7 once the limit resets.
 2. Animate the shots: Cinema Studio 4.0 for 2 and 7, Seedance 2.0 for the product shots (4, 5, 6) to keep the jewellery accurate. Draft at 720p first.
 3. Record the VO, add a soft acoustic music bed, edit to the VO, add captions and the Cupio logo end card, then upscale.
+
+## FINAL DELIVERY
+- **Final reel (1080×1920, 30.0 s, captions burned in):** media b56e2508-b60c-4b24-9997-bbb2996bc15a
+  https://d2ol7oe51mr4n9.cloudfront.net/user_3JBxbm7w6HzfGvcvWxinw4FTv9B/b56e2508-b60c-4b24-9997-bbb2996bc15a.mp4
+- Shots: Topaz 1080p (1–6, 8) + Seedance 2.5 1080p (7). Cut frames @24fps: 96/86/91/95/96/80/62/114 = 720.
+- Audio: VO take 4 (6214c848, starts at 1.0 s) + original synthesized score (D major, 70 BPM), sidechain-ducked, -13.4 LUFS.
+- End card: "CUPIO / Handmade jewellery from Georgia" (Cormorant Garamond), fades in at 25.5 s.
+- Captions: Montserrat, sentence case, 14 cues through "they are."; none on the end card. Subject-clearance reviewed and verified.

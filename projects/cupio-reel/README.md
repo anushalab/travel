@@ -102,6 +102,18 @@ Finals at 1080p (approved takes only): Seedance 36 per shot.
 | 8 | 199be9ab-0b6e-4e36-bb9c-8d8997a99741 | review |
 Approved drafts are finalised at 1080p with `draft_job_id`, which keeps the same motion.
 
+## Upscale: Topaz 1080p (client choice instead of draft finalize), 24 credits total
+| Shot | Source draft | Topaz job |
+|------|--------------|-----------|
+| 1 | c6b58ab6 | c023a0b4-dde1-411d-a922-ad9ec77eb662 |
+| 2 | fbed692c | c9a7acea-d89d-43e5-82e8-002d142a3d1e |
+| 3 | 79435fc9 | 6a945141-3c0d-41e0-b44e-6935f3fee593 |
+| 4 | 06776837 | a169cf45-8824-4893-b27f-72a5f9165d74 |
+| 5 | e5b1bbd9 (option A) | 93476034-e1b8-4676-bd06-3ae7e307f00f |
+| 6 | 14a9707a | b2576c73-b7ee-4281-8525-a8a185d60ad9 |
+| 7 | da31b617 (from I2) | 80e34065-a5a2-4dbb-9cca-5f2053c26f2a |
+| 8 | 199be9ab | 6e818146-77c4-4447-83a4-bf9e8745e8c3 |
+
 ## Next steps
 
 1. Character locked: Cupio-woman-field. Generate the VO with the chosen voice (blocked by the daily limit on 2026-10-13). Generate shots 1, 4 and 7 once the limit resets.

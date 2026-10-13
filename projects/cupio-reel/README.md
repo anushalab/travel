@@ -28,14 +28,18 @@
 
 | Shot | Job ID | Status |
 |------|--------|--------|
-| 1 | — | blocked by daily limit, retry |
+| 1 | 898ca804-d706-4847-bca0-248d4175cb88 | done |
 | 2 | 195a2f0d-0596-47cd-abe6-dd054f87c5ee | done |
 | 3 | d8fe0782-8d10-4cd5-9a6c-02861cb83e83 | done |
-| 4 | — | blocked by daily limit, retry |
+| 4 | 8346b718-ae0b-476c-be46-b1171d7eb743 | done |
 | 5 | a3191609-80e6-4b14-961d-eba41c64ad89 | done |
 | 6 | 9abc4f76-36a3-494b-a3f1-cd64d4503598 | done |
-| 7 | — | blocked by daily limit, retry |
+| 7 | 2a1779a6-db55-4799-9919-61b43c39d592 | done |
 | 8 | a74246aa-3f8e-433f-9d91-8852764fb208 | done |
+
+## Voiceover
+
+- Take 1: job 186b1a61-33e1-467c-b8d4-a1051eb1041f, voice "Olena", speech_rate -10, **34.7 s** (too long for a 30 s reel).
 
 ## Next steps
 
